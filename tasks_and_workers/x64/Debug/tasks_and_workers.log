@@ -1,0 +1,5 @@
+﻿  tasks_and_workers.cpp
+D:\code\tasks_and_workers\tasks_and_workers\tasks_and_workers.cpp(39,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\code\tasks_and_workers\tasks_and_workers\tasks_and_workers.cpp(17,9): warning C4101: 'numberOfTasks': unreferenced local variable
+D:\code\tasks_and_workers\tasks_and_workers\tasks_and_workers.cpp(17,24): warning C4101: 'numberOfWorkers': unreferenced local variable
+  tasks_and_workers.vcxproj -> D:\code\tasks_and_workers\x64\Debug\tasks_and_workers.exe
